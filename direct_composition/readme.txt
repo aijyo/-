@@ -1,0 +1,4 @@
+CreateSurfaceFromHwnd 从layered窗口获取surface，然后可以把这个surface在其它地方显示。
+
+dwmSetWindowAttribute  隐藏窗口 DWMWA_CLOAK
+
